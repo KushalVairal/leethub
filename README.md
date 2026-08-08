@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/KushalVairal/leethub/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/KushalVairal/leethub/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/KushalVairal/leethub/tree/master/0049-group-anagrams) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/KushalVairal/leethub/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/KushalVairal/leethub/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/KushalVairal/leethub/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/KushalVairal/leethub/tree/master/0229-majority-element-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/KushalVairal/leethub/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/KushalVairal/leethub/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/KushalVairal/leethub/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
