@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KushalVairal/leethub/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/KushalVairal/leethub/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KushalVairal/leethub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KushalVairal/leethub/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/KushalVairal/leethub/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/KushalVairal/leethub/tree/master/0229-majority-element-ii) |
 ## Hash Table
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KushalVairal/leethub/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KushalVairal/leethub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KushalVairal/leethub/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/KushalVairal/leethub/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/KushalVairal/leethub/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
