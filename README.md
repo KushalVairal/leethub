@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KushalVairal/leethub/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/KushalVairal/leethub/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/KushalVairal/leethub/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/KushalVairal/leethub/tree/master/0065-valid-number) |
 ## Matrix
 |  |
 | ------- |
