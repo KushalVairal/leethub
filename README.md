@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KushalVairal/leethub/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/KushalVairal/leethub/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/KushalVairal/leethub/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/KushalVairal/leethub/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/KushalVairal/leethub/tree/master/0018-4sum) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/KushalVairal/leethub/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/KushalVairal/leethub/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/KushalVairal/leethub/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/KushalVairal/leethub/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/KushalVairal/leethub/tree/master/0065-valid-number) |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/KushalVairal/leethub/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/KushalVairal/leethub/tree/master/0374-guess-number-higher-or-lower) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/KushalVairal/leethub/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
