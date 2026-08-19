@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KushalVairal/leethub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KushalVairal/leethub/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/KushalVairal/leethub/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/KushalVairal/leethub/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/KushalVairal/leethub/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/KushalVairal/leethub/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/KushalVairal/leethub/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/KushalVairal/leethub/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/KushalVairal/leethub/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/KushalVairal/leethub/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/KushalVairal/leethub/tree/master/0060-permutation-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/KushalVairal/leethub/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
