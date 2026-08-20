@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KushalVairal/leethub/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/KushalVairal/leethub/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/KushalVairal/leethub/tree/master/0229-majority-element-ii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/KushalVairal/leethub/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/KushalVairal/leethub/tree/master/0219-contains-duplicate-ii) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/KushalVairal/leethub/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
