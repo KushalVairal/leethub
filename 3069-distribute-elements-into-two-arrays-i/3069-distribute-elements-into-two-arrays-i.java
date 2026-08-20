@@ -13,6 +13,14 @@ class Solution {
                 arr2.add(nums[i]);
             }
         }
-         return Stream.concat(arr1.stream(), arr2.stream()).mapToInt(Integer::intValue).toArray();
+        arr1.addAll(arr2);
+        int[] res = new int[arr1.size()];
+        int i= 0;
+        while(i<arr1.size()){
+            res[i] = arr1.get(i);
+            i++;
+        }
+        //  return Stream.concat(arr1.stream(), arr2.stream()).mapToInt(Integer::intValue).toArray();
+        return res;
     }
 }
