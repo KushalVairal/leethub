@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KushalVairal/leethub/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/KushalVairal/leethub/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/KushalVairal/leethub/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/KushalVairal/leethub/tree/master/0349-intersection-of-two-arrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KushalVairal/leethub/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KushalVairal/leethub/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/KushalVairal/leethub/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/KushalVairal/leethub/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/KushalVairal/leethub/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/KushalVairal/leethub/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/KushalVairal/leethub/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/KushalVairal/leethub/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/KushalVairal/leethub/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/KushalVairal/leethub/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/KushalVairal/leethub/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/KushalVairal/leethub/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/KushalVairal/leethub/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -88,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KushalVairal/leethub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KushalVairal/leethub/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/KushalVairal/leethub/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/KushalVairal/leethub/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/KushalVairal/leethub/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
