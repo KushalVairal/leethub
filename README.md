@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/KushalVairal/leethub/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/KushalVairal/leethub/tree/master/0060-permutation-sequence) |
 | [0492-construct-the-rectangle](https://github.com/KushalVairal/leethub/tree/master/0492-construct-the-rectangle) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KushalVairal/leethub/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
 |  |
 | ------- |
