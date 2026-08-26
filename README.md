@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/KushalVairal/leethub/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/KushalVairal/leethub/tree/master/0349-intersection-of-two-arrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KushalVairal/leethub/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/KushalVairal/leethub/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/KushalVairal/leethub/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/KushalVairal/leethub/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/KushalVairal/leethub/tree/master/0349-intersection-of-two-arrays) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/KushalVairal/leethub/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
 | ------- |
