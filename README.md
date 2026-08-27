@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/KushalVairal/leethub/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/KushalVairal/leethub/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/KushalVairal/leethub/tree/master/0349-intersection-of-two-arrays) |
+| [0877-stone-game](https://github.com/KushalVairal/leethub/tree/master/0877-stone-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KushalVairal/leethub/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KushalVairal/leethub/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/KushalVairal/leethub/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/KushalVairal/leethub/tree/master/0060-permutation-sequence) |
 | [0492-construct-the-rectangle](https://github.com/KushalVairal/leethub/tree/master/0492-construct-the-rectangle) |
+| [0877-stone-game](https://github.com/KushalVairal/leethub/tree/master/0877-stone-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KushalVairal/leethub/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
 |  |
@@ -129,8 +131,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KushalVairal/leethub/tree/master/0005-longest-palindromic-substring) |
+| [0877-stone-game](https://github.com/KushalVairal/leethub/tree/master/0877-stone-game) |
 ## Manacher
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KushalVairal/leethub/tree/master/0005-longest-palindromic-substring) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/KushalVairal/leethub/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/KushalVairal/leethub/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/KushalVairal/leethub/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
